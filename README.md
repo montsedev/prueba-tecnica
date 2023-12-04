@@ -6,7 +6,7 @@ Es una prueba tecnica para el puesto middler senior, la estructura esta hecha co
 Se ha construido con la siguiente organización:
 
 ```
-pruebatecnica
+prueba-tecnica
 |
 └───.vscode
 |   node_modules
