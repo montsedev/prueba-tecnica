@@ -10,8 +10,8 @@ import { getDitto } from '@apis/Pokemons';
 
 import { boxContainerPaperColor } from '@constants/Styles';
 
-import Search from '@components/Pokemons/List/Search';
-import Paginate from '@components/Pokemons/List/Paginate';
+import Search from '@components/Pokemons/Card/Search';
+import Paginate from '@components/Pokemons/Card/Paginate';
 import Card from '@components/Pokemons/Card';
 
 const queryKey = 'pokelist'
